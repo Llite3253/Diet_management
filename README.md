@@ -20,7 +20,7 @@
     + ###### 프론트 엔드: Java Swing
     + ###### 백엔드: Node.js
 + ##### 데이터 베이스 :
-    ###### SQ:ite
+    ###### SQLite
 + ##### 개발 도구 및 라이브러리 :
     + ###### Eclipse IDE (Java 개발)
     + ###### VS Code (Node.js 백엔드)
