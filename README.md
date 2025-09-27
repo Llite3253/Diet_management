@@ -22,3 +22,8 @@
 # 🎯 성능 개선
 + ##### 음식 검색 결과를 스크롤 기반 리스트로 효율적으로 렌더링
 + ##### 추가/삭제 시 화면 전환 없이 이벤트 기반 갱신으로 사용자 경험 개선
+
+# 시연 영상
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/25e3be63-24c3-4ec1-a996-679f5b98f8d8">
+</p>
